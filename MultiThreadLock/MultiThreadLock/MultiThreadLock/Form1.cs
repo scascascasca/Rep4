@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // Local'deki ekleme
+
+//Git değişikliği 1
 namespace MultiThreadLock
 {
     public partial class Form1 : Form
