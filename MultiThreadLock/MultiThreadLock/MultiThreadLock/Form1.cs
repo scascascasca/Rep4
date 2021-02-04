@@ -9,7 +9,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// Local'deki ekleme
+//Branch 1 değişikliği
+// Local'deki ekleme 2
 
 //Git değişikliği 1
 namespace MultiThreadLock
